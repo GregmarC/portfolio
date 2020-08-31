@@ -4716,9 +4716,35 @@ html {
 	margin-bottom: 60px;
 }
 
+@media screen and (max-width: 1009px) {
+	.skillContent {
+		display: none;
+	}
+}
+
+
+.skillContent {
+	font-size: 80%;
+}
+
+.skillsList {
+	display: flex;
+}
+
+.skillsList li {
+	margin-right: 30px;
+}
+
 .poofSiteContent {
 	display: flex;
     justify-content: space-between;
+}
+
+@media screen and (max-width: 799px) {
+	.poofSiteContent {
+		flex-direction: column;
+		align-items: center;
+	}
 }
 
 .poofPriceComparePoints {
@@ -4734,6 +4760,12 @@ html {
 
 .spaceArticle {
 	width: 50% !important;
+}
+
+@media screen and (max-width: 736px) {
+	.spaceArticle {
+		width: 100% !important;
+	}
 }
 
 .projectDesc {
