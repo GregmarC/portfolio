@@ -4725,6 +4725,8 @@ html {
 
 .skillContent {
 	font-size: 80%;
+	position: relative;
+    top: 60px;
 }
 
 .skillsList {
