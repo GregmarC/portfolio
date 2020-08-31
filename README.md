@@ -1,3 +1,3 @@
-# My Software Developer Portfolio! Come take a look.
+# My Software Developer Portfolio! Come take a look! :)
 
 https://gregmarc.github.io/portfolio/
