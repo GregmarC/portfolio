@@ -4753,6 +4753,12 @@ html {
 	width: 80%;
 }
 
+@media screen and (max-width: 500px) {
+	.poofSitePic {
+		max-height: 42vh;
+	}
+}
+
 .project4 {
 	width: 100% !important;
     display: flex !important;
