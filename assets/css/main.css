@@ -4754,6 +4754,10 @@ html {
 	width: 80%;
 }
 
+.poofSitePic {
+	height: 85%;
+}
+
 @media screen and (max-width: 500px) {
 	.poofSitePic {
 		max-height: 42vh;
