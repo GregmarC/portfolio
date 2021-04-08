@@ -4767,6 +4767,14 @@ html {
     border-top: solid #eeeeee !important;
 }
 
+.firstArticle {
+	border-bottom-width: 3px !important;
+}
+
+.secondArticle {
+	border-bottom-width: 1px !important;
+}
+
 .spaceArticle {
 	width: 50% !important;
 }
